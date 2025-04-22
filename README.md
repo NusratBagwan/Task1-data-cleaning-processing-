@@ -19,3 +19,5 @@ a= pd.read_csv("Top 2000 Companies Financial Data 2024.csv")
  # a.drop()
  # a.unique()
  ![1000010075](https://github.com/user-attachments/assets/53a18b08-ff0e-423d-9361-3945d3515b71)
+# Clean Dataset
+https://docs.google.com/spreadsheets/d/1HY1uzvrzMYSc5BRzIPvh-seA2RUHQ25QQrnyGi6ta70/edit?usp=drivesdk
