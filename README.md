@@ -1,8 +1,8 @@
 # Task1 Data cleaning and processing#
 # Objective:#
-Cleaned and prepared a raw dataset (with nulls, duplicates, inconsistent formats,unique, describe,drop header,).
+Clean and prepare a raw dataset (with nulls, duplicates, inconsistent formats,unique, describe,drop header,).
 # Tools:
-I have used Python (Pandas) for data cleaning and processing 
+ Used Python (Pandas) for data cleaning and processing 
 # Dataset name from kaggle:
 Top2000 Companies Financial Data 2024
 
